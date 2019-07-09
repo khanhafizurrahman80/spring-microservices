@@ -3,5 +3,4 @@ spring:
     name:player-client
 
 server:
-  port: 8200
-
+  port: 8300
