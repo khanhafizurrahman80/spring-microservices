@@ -1,0 +1,7 @@
+spring:
+  application:
+    name:player-client1
+
+server:
+  port: 8200
+
